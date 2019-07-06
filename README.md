@@ -26,7 +26,7 @@ With the following command the angular-cli will be installed globally in your ma
 
 We can install the master branch using the following commands:
     
-    cd Name_sorter
+    cd Name-Sorter
     npm install
 
 Its also possible to install the modules as usual using npm:
@@ -55,4 +55,4 @@ The application is visible at port 4200: [http://localhost:4200](http://localhos
 
 # The text files
 
-The text files are located in Name_sorter/src/assets
+The text files are located in Name-sorter/src/assets
